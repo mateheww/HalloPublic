@@ -1,6 +1,6 @@
 {
   "admob":true,
-  "applovin":true,
+  "applovin":false,
   "admob_banner":"ca-app-pub-3940256099942544/6300978111",
   "admob_intersticial":"ca-app-pub-3940256099942544/1033173712",
   "applovin_banner":"",
