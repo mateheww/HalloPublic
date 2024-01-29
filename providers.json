@@ -2,11 +2,13 @@
   "warezcdn": {
     "enable_for_series": true,
     "enable_for_movies": true,
-    "host": "https://embed.warezcdn.com/"
+    "host": "https://embed.warezcdn.com/",
+    "host_api": "https://warezcdn.com/"
   },
   "supercine": {
     "enable_for_series": false,
     "enable_for_movies": false,
-    "host": ""
+    "host": "",
+    "host_api": ""
   }
 }
