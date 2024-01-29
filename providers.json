@@ -11,5 +11,12 @@
     "host": "https://appsupercine.app/",
     "host_api": "https://appsupercine.app/",
     "append_to_api": "&version=1.0&origin=webapp"
+  },
+  "amenic": {
+    "enable_for_series": true,
+    "enable_for_movies": true,
+    "host": "https://api.amenic.tv/",
+    "host_api": "https://api.amenic.tv/",
+    "append_to_api": "&version=0.9&origin=webapp"
   }
 }
