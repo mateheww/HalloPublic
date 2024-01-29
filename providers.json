@@ -6,7 +6,7 @@
     "host_api": "https://warezcdn.com/"
   },
   "supercine": {
-    "enable_for_series": false,
+    "enable_for_series": true,
     "enable_for_movies": true,
     "host": "https://appsupercine.app/",
     "host_api": "https://appsupercine.app/",
