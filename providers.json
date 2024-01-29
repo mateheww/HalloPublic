@@ -7,7 +7,7 @@
   },
   "supercine": {
     "enable_for_series": false,
-    "enable_for_movies": false,
+    "enable_for_movies": true,
     "host": "https://appsupercine.app/",
     "host_api": "https://appsupercine.app/",
     "append_to_api": "&version=1.0&origin=webapp"
