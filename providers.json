@@ -18,5 +18,11 @@
     "host": "https://api.amenic.tv/",
     "host_api": "https://api.amenic.tv/",
     "append_to_api": "&version=0.9&origin=webapp"
+  },
+  "megacanais": {
+    "enable": true,
+    "host": "https://megacanais.pro/",
+    "host_api": "https://megacanais.pro/",
+    "append_to_api": ""
   }
 }
